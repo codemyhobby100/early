@@ -1,0 +1,81 @@
+body {
+    font-family: "Montserrat";
+    margin: 0;
+    background-color: #243748;
+}
+
+.topnav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    padding-right: 70px;
+    padding-top: 20px;
+    background-color: #3C5E7F;
+    height: 40px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+
+.container {
+    width: 100%;
+    padding: 10px 50px;
+   
+}
+
+.first {
+    color: white;
+    height: 100vh;
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin: 0;
+}
+
+
+
+.early-image {
+    height: 200%;
+
+    border-radius: 30px;
+}
+
+button:hover {
+    background-color: #466D95;
+}
+
+.contact-me {
+margin-top: 20px;
+    border-radius: 7px;
+    background-color: #3C5E7F;
+    color: aliceblue;
+    height: 40px;
+    width: 140px;
+    font-size: 18px;
+    border: 0;
+}
+
+.second{
+ 
+}
+.second-text{
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+color: white;
+
+}
+
+p{
+  display: inline;
+  
+}
